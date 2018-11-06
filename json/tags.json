@@ -1,0 +1,18 @@
+{
+	"aeroway": {
+		"airport": ["airport", "airstrip", "hangar", "helipad", "runway", "terminal", "heliport"]
+	},
+	"amenity": {
+		"entertainment": ["casino", "cinema", "dancing school"],
+		"education": ["college", "education"],
+		"eatery": ["cafe", "fast food", "feeding place", "food court"],
+		"accommodation": ["hotel"],
+		"financial": ["atm", "bank", "bureau de change", "financial advice"],
+		"transport": ["bus station", "boat rental", "boat sharing", "boat storage", "bicycle parking", "bicycle rental", "bicycle repair station", "car pooling", "car rental", "car repair", "car wash"],
+		"health": ["hospital", "hospice", "clinic", "dentist", "doctors", "first aid"],
+		"bar": ["bar", "biergarten", "club"]
+	},
+	"building": {
+		"house": ["bungalow", "house", "residential", "semidetached house", "apartments", "detached"]
+	}
+}
